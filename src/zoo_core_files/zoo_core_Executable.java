@@ -1,16 +1,11 @@
 /**
- * 
- */
-package zoo_core_files;
-
-/**
- * @author 1168576
  *
  */
+package zoo_core_files;
 public class zoo_core_Executable {
 
 	/**
-	 * 
+	 *
 	 */
 	public zoo_core_Executable() {
 		// TODO Auto-generated constructor stub
@@ -24,4 +19,7 @@ public class zoo_core_Executable {
 
 	}
 
+}
+public class zooFileHandler {
+	
 }
