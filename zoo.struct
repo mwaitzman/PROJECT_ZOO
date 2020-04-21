@@ -1,0 +1,9 @@
+metadata {
+int UniqueID;
+}
+String name;
+content {
+Enclosures[]
+//define Enclosures as
+Animals[]
+}
